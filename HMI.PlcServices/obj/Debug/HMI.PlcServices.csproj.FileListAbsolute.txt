@@ -1,0 +1,9 @@
+E:\Learning_C#\ViTri\Vitri\HMI.PlcServices\bin\Debug\HMI.PlcServices.dll
+E:\Learning_C#\ViTri\Vitri\HMI.PlcServices\bin\Debug\HMI.PlcServices.pdb
+E:\Learning_C#\ViTri\Vitri\HMI.PlcServices\obj\Debug\HMI.PlcServices.csproj.AssemblyReference.cache
+E:\Learning_C#\ViTri\Vitri\HMI.PlcServices\obj\Debug\HMI.PlcServices.csproj.CoreCompileInputs.cache
+E:\Learning_C#\ViTri\Vitri\HMI.PlcServices\obj\Debug\HMI.PlcServices.dll
+E:\Learning_C#\ViTri\Vitri\HMI.PlcServices\obj\Debug\HMI.PlcServices.pdb
+E:\Learning_C#\ViTri\Vitri\HMI.PlcServices\bin\Debug\Sharp7Library.dll
+E:\Learning_C#\ViTri\Vitri\HMI.PlcServices\bin\Debug\Sharp7Library.pdb
+E:\Learning_C#\ViTri\Vitri\HMI.PlcServices\obj\Debug\HMI.PlcServices.csproj.CopyComplete
